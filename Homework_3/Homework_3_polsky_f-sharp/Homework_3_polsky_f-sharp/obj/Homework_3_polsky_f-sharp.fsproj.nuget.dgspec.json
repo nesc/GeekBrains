@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DeoneFire\\source\\repos\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DeoneFire\\source\\repos\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DeoneFire\\source\\repos\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp.fsproj",
+        "projectName": "Homework_3_polsky_f-sharp",
+        "projectPath": "C:\\Users\\DeoneFire\\source\\repos\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp.fsproj",
+        "packagesPath": "C:\\Users\\DeoneFire\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DeoneFire\\source\\repos\\Homework_3_polsky_f-sharp\\Homework_3_polsky_f-sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DeoneFire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

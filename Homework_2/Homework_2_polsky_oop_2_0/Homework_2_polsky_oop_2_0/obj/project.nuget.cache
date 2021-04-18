@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ObImG6QJ2cPgb0ZcROxmENukz2wiC8KJMO8+V+l7MBaMMSQvoMLzv5nXA2zWzm8FjtgP6wATUYLEHJiCRsY2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeoneFire\\source\\repos\\Homework_2_polsky_oop_2_0\\Homework_2_polsky_oop_2_0\\Homework_2_polsky_oop_2_0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeoneFire\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

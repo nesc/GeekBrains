@@ -1,0 +1,13 @@
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\bin\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.exe
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\bin\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.deps.json
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\bin\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.runtimeconfig.json
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\bin\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.runtimeconfig.dev.json
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\bin\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.dll
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\bin\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.pdb
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\obj\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.AssemblyInfoInputs.cache
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\obj\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.AssemblyInfo.cs
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\obj\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.csproj.CoreCompileInputs.cache
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\obj\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.dll
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\obj\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.pdb
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\obj\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.genruntimeconfig.cache
+C:\Users\DeoneFire\source\repos\Homework_2_polsky_oop_2_0\Homework_2_polsky_oop_2_0\obj\Debug\netcoreapp3.1\Homework_2_polsky_oop_2_0.csprojAssemblyReference.cache
