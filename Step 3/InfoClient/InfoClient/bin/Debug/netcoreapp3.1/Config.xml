@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Database>
+	<AbsDB>
+		<Hostname>localhost</Hostname>
+		<Name>AbsDB</Name>
+		<User>Loader</User>
+		<Password>Qwerty56</Password>
+	</AbsDB>
+	<InfoClientDB>
+		<Hostname>localhost</Hostname>
+		<Name>InfoClientDB</Name>
+		<User>SaveManager</User>
+		<Password>Qwerty88</Password>
+	</InfoClientDB>
+</Database>
